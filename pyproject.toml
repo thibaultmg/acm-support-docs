@@ -1,0 +1,11 @@
+[project]
+name = "acm-support-docs"
+version = "0.1.0"
+description = "Documentation generation for ACM support"
+requires-python = ">=3.11"
+dependencies = [
+    "PyYAML",
+]
+
+[tool.uv]
+managed = true
