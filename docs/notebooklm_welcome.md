@@ -1,0 +1,1 @@
+Welcome! This agent focuses on **ACM Observability**, grounded in official docs, runbooks, and internal notes. Use it to troubleshoot fleet issues and clarify architectures, ensuring you verify answers against source citations. **Tip:** Specify if you are using the **legacy Metrics Collector** or the new **MCOA** for more accurate responses.

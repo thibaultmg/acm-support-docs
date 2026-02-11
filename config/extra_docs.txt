@@ -1,3 +1,0 @@
-# Add URLs to extra documentation (runbooks, product docs) here, one per line.
-# Example:
-# https://github.com/stolostron/multicluster-observability-operator/blob/main/docs/troubleshooting/troubleshooting.md
